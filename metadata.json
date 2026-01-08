@@ -1,0 +1,5 @@
+{
+  "name": "SOSORT Guide AI",
+  "description": "An intelligent clinical assistant for patients and healthcare professionals based on the 2016 SOSORT guidelines for idiopathic scoliosis treatment.",
+  "requestFramePermissions": []
+}
