@@ -46,14 +46,23 @@ Grounded Answer
 
 ## 📂 Project Structure
 RAG_Scoliosis_LLM/
+
 │
+
 ├── App.tsx # Main UI component
+
 ├── index.tsx # App entry point
+
 ├── geminiService.ts # LLM API integration
+
 ├── knowledgeBase.ts # Retrieval logic
+
 ├── metadata.json # Structured scoliosis dataset
+
 ├── package.json # Dependencies and scripts
+
 ├── vite.config.ts # Vite configuration
+
 └── README.md
 
 ---
